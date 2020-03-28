@@ -1,2 +1,4 @@
 language = "undefined"
-run = "echo hello word"
+#run = "echo hello word"
+#run = "./repl.it/install-pkg.sh"
+run = "./linux/hello.sh"
