@@ -1,6 +1,6 @@
 # cannot install
 ## 
-# can install but cannot execute sucessfully
-## install-pkg ranger
+# can install but execute with some issues
+## install-pkg ranger firefox
 # can install & execute
-install-pkg tig w3m firefox
+install-pkg tig w3m
