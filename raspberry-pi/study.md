@@ -1,1 +1,5 @@
 * [給你滿滿的樹莓派教學、實作與應用大平台 | IT 技術家](http://blog.itist.tw/p/how-to-study-raspberry-pi.html)
+* [DBeaver Community | Free Universal Database Tool](https://dbeaver.io/)
+  * [Download Raspbian for Raspberry Pi](https://www.raspberrypi.org/downloads/raspbian/)
+* [天羅地網物聯網 :: 第 11 屆 iT 邦幫忙鐵人賽](https://ithelp.ithome.com.tw/users/20107304/ironman/2796)
+  * [[Day 21] 幫樹莓派裝裝作業系統 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10225931)

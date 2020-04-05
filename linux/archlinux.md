@@ -1,0 +1,7 @@
+* [Wiki - Arch Linux 介紹 與 安裝](http://wiki.csie.ncku.edu.tw/archlinux)
+* [寫了一個Arch Linux安裝教學 [論壇 - Ubuntu 哈啦] | Ubuntu 正體中文站](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?topic_id=78852&start=0)
+  * [Arch Linux：設定網路](http://www.wlintmp.net/)
+  * [Arch Linux：安裝系統 | 二三事](http://www.wlintmp.net/2014/02/arch-linux.html)
+  * [Arch Linux：建立中文多語言環境 | 二三事](http://www.wlintmp.net/2014/02/arch-linux-ibus.html)
+* [Getting and installing Arch (简体中文) - ArchWiki](https://wiki.archlinux.org/index.php/Getting_and_installing_Arch_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
+* [Offline installation of packages - ArchWiki](https://wiki.archlinux.org/index.php/Offline_installation_of_packages)
