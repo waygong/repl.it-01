@@ -6,5 +6,6 @@
   * `=REGEXMATCH(A:A, "[0-9][0-9]keyword$")` 包含某關鍵字
   * `=REGEXMATCH(to_text(A:A), "4/13")` 包含某"日期"關鍵字`
 * 綜合版
-  * `=$B2=1` + `=B2=0` + `=MOD(IF(ROW()=2,0,IF(A2=A1,B1, B1+1)), 2)` 
-  若相鄰列值不同，則改變顏色，參考: [Alternate Row Color Based on Value Change in Google Sheets - Red Argyle](https://www.redargyle.com/blog/alternate-row-color-based-value-change-google-sheets/)
+  * `=iseven(match($A1,unique($A$1:$A$15),0))` 若相鄰列值不同，則改變顏色
+  參考: [Google Spreadsheets: Alternating Background Color on Value Change? - Stack Overflow](https://stackoverflow.com/questions/30268451)
+  這個我用起來還有點問題就是了，所以我暫時是用上面的 REGEXMATCH 來處理
