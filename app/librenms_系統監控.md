@@ -1,0 +1,6 @@
+* [節省工具箱 Jason Tools](http://blog.jason.tools/2017/06/librenms-networkmanager-good.html)
+  * [LibreNMS 資安應用經驗分享 [2019/07/11] @國際資訊安全組織臺灣高峰會](https://www.slideshare.net/jasoncheng7115/librenms-20190711)
+* [筆記- ubuntu 18.04 系統狀態監控工具 librenms | 飄狂山莊](https://h.mc4.us/2018/09/25/librenms-in-a-docker/)
+  * [LibreNMS](https://www.librenms.org/)
+    * [librenms/docker: 🐳 LibreNMS Docker image based on Alpine Linux and Nginx](https://github.com/librenms/docker)
+* [三分鐘學會安裝 LibreNMS SNMP Tools CentOS 7 (Apache) - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10212310)
