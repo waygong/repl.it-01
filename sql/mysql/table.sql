@@ -6,3 +6,4 @@ ALTER TABLE table_new AUTO_INCREMENT=1;
 INSERT INTO table_new (id_new)
 SELECT id FROM table_old WHERE 1=1;
 
+

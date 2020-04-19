@@ -7,5 +7,5 @@
   * `=REGEXMATCH(to_text(A:A), "4/13")` 包含某"日期"關鍵字`
 * 綜合版
   * `=iseven(match($A1,unique($A$1:$A$15),0))` 若相鄰列值不同，則改變顏色
-  參考: [Google Spreadsheets: Alternating Background Color on Value Change? - Stack Overflow](https://stackoverflow.com/questions/30268451)
-  這個我用起來還有點問題就是了，所以我暫時是用上面的 REGEXMATCH 來處理
+    * 參考: [Google Spreadsheets: Alternating Background Color on Value Change? - Stack Overflow](https://stackoverflow.com/questions/30268451)
+    * 這個我用起來還有點問題就是了，所以我暫時是用上面的 REGEXMATCH 來處理

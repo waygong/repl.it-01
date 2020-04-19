@@ -1,0 +1,1 @@
+select * from xxx where aaa COLLATE utf8mb4_unicode_ci = 'yyy'
